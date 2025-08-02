@@ -1,0 +1,30 @@
+{
+    "minerals": [
+        {
+            "name": "Quartz",
+            "chemical_formula": "SiO2",
+            "crystal_system": "Trigonal",
+            "color": "Colorless, white, purple, pink, brown, black",
+            "hardness": 7,
+            "specific_gravity": 2.65,
+            "cleavage": "None",
+            "fracture": "Conchoidal",
+            "luster": "Vitreous",
+            "streak": "White",
+            "occurrence": "Common in igneous, metamorphic, and sedimentary rocks"
+        },
+        {
+            "name": "Feldspar",
+            "chemical_formula": "KAlSi3O8 - NaAlSi3O8 - CaAl2Si2O8",
+            "crystal_system": "Monoclinic/Triclinic",
+            "color": "Pink, white, gray, brown",
+            "hardness": 6,
+            "specific_gravity": "2.55-2.76",
+            "cleavage": "Good",
+            "fracture": "Uneven",
+            "luster": "Vitreous",
+            "streak": "White",
+            "occurrence": "Most abundant mineral in Earth's crust"
+        }
+    ]
+}

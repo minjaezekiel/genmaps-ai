@@ -1,0 +1,22 @@
+{
+    "rocks": [
+        {
+            "name": "Granite",
+            "type": "Igneous",
+            "texture": "Phaneritic",
+            "mineral_composition": ["Quartz", "Feldspar", "Mica"],
+            "color": "Light-colored",
+            "formation": "Intrusive",
+            "description": "Coarse-grained intrusive igneous rock"
+        },
+        {
+            "name": "Basalt",
+            "type": "Igneous",
+            "texture": "Aphanitic",
+            "mineral_composition": ["Plagioclase", "Pyroxene"],
+            "color": "Dark-colored",
+            "formation": "Extrusive",
+            "description": "Fine-grained volcanic rock"
+        }
+    ]
+}

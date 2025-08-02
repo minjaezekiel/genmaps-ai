@@ -1,0 +1,56 @@
+{
+    "surveys": [
+        {
+            "id": "survey_001",
+            "coordinates": [
+                {
+                    "lat": 34.0522,
+                    "lon": -118.2437,
+                    "elevation": 71
+                },
+                {
+                    "lat": 34.0532,
+                    "lon": -118.2447,
+                    "elevation": 75
+                }
+            ],
+            "descriptions": [
+                {
+                    "location_index": 0,
+                    "text": "Coarse-grained rock with pink feldspar and quartz",
+                    "inferred_type": "Granite"
+                }
+            ],
+            "formation": "Batholith",
+            "date": "2023-05-15"
+        },
+        {
+            "id": "survey_002",
+            "coordinates": [
+                {
+                    "lat": 34.0522,
+                    "lon": -118.2437,
+                    "elevation": 71.0
+                },
+                {
+                    "lat": 34.0532,
+                    "lon": -118.2447,
+                    "elevation": 75.0
+                },
+                {
+                    "lat": 30.551,
+                    "lon": -120.2557,
+                    "elevation": 60.0
+                },
+                {
+                    "lat": 30.551,
+                    "lon": -119.2548,
+                    "elevation": 66.0
+                }
+            ],
+            "descriptions": [],
+            "formation": "Batholith",
+            "date": "2025-08-03"
+        }
+    ]
+}

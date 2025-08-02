@@ -1,0 +1,14 @@
+{
+    "formations": [
+        {
+            "name": "Batholith",
+            "type": "Igneous",
+            "description": "Large mass of intrusive igneous rock"
+        },
+        {
+            "name": "Delta",
+            "type": "Sedimentary",
+            "description": "Landform at the mouth of a river"
+        }
+    ]
+}
