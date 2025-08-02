@@ -24,15 +24,15 @@ A Python-based system for mineral exploration, rock identification, and geologic
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/minjaezekiel/geological-ai.git
+git clone https://github.com/minjaezekiel/genmaps-ai.git
 cd geological-ai
 ```
 
 2. Create and activate virtual environment:
 ```bash
-python -m venv geo_env
-source geo_env/bin/activate  # Linux/Mac
-geo_env\Scripts\activate    # Windows
+python -m venv env
+source env/bin/activate  # Linux/Mac
+env\Scripts\activate    # Windows
 ```
 
 3. Install dependencies:
